@@ -22,7 +22,7 @@ class Projects extends Component {
             <h3>Full-Stack</h3>
             <hr />
             <Row>
-              <Col sm="2">
+              <Col xl="2">
                 <img width="175" className="rounded-circle" src={require('../photos/tvod.jpg')} alt="profile" />
               </Col>
               <Col>
@@ -39,7 +39,7 @@ class Projects extends Component {
             </Row>
             <br />
             <Row>
-              <Col sm="2">
+              <Col xl="2">
                 <img width="175" className="rounded-circle" src={require('../photos/volunteer.jpg')} alt="profile" />
               </Col>
               <Col>
@@ -56,7 +56,7 @@ class Projects extends Component {
             </Row>
             <br />
             <Row>
-              <Col sm="2">
+              <Col xl="2">
                 <img width="175" className="rounded-circle" src={require('../photos/auth.jpeg')} alt="profile" />
               </Col>
               <Col>
@@ -80,7 +80,7 @@ class Projects extends Component {
           <h3>Other Projects</h3>
           <hr />
           <Row>
-            <Col sm="2">
+            <Col xl="2">
               <img width="175" className="rounded-circle" src={require('../photos/trackmeet.jpg')} alt="profile" />
             </Col>
             <Col>
@@ -96,7 +96,7 @@ class Projects extends Component {
           </Row>
           <br />
           <Row>
-            <Col sm="2">
+            <Col xl="2">
               <img width="175" className="rounded-circle" src={require('../photos/resize.png')} alt="profile" />
             </Col>
             <Col>
@@ -112,7 +112,7 @@ class Projects extends Component {
           </Row>
           <br />
           <Row>
-            <Col sm="2">
+            <Col xl="2">
               <img width="175" className="rounded-circle" src={require('../photos/snacks.png')} alt="profile" />
             </Col>
             <Col>
