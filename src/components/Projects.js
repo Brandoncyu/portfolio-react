@@ -61,7 +61,7 @@ class Projects extends Component {
               </Col>
               <Col>
                 <h4>Task Manager</h4>
-                Task Manager is a fully-featured full-stack application allows users to create unique accounts, create multiple task lists, and add individual tasks to the aforementioned lists. Users also have the opportunity to mark tasks as "completed" and remove lists and tasks altogether. Each set of created lists are uniquely assigned and saved to the their account, and a username and password will be required to access the information.
+                Task Manager is a fully-featured full-stack application that allows users to create unique accounts, create multiple task lists, and add individual tasks to the aforementioned lists. Users also have the opportunity to mark tasks as "completed" and remove lists and tasks altogether. Each set of created lists are uniquely assigned and saved to the their account, and a username and password will be required to access the information.
                 <br />
                 <br />
                 This app was built using JavaScript, HTML, CSS, Bootstrap, Axios, Browserify, Watchify, Live-Server and Moment
