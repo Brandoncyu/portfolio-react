@@ -67,7 +67,7 @@ class Projects extends Component {
                 This app was built using JavaScript, HTML, CSS, Bootstrap, Axios, Browserify, Watchify, Live-Server and Moment
                 <br />
                 <br />
-                <a href = "https://github.com/Brandoncyu/auth-task-manager-frontend" target="blank"><i className="fab fa-github-square p-2"></i>Github</a> | <a href = "https://github.com/Brandoncyu/auth-task-manager-frontend/blob/master/taskmanagerwb.surge.sh" target="blank"><i className="fas fa-link"></i> Live Demo</a>
+                <a href = "https://github.com/Brandoncyu/auth-task-manager-frontend" target="blank"><i className="fab fa-github-square p-2"></i>Github</a> | <a href = "http://taskmanagerwb.surge.sh" target="blank"><i className="fas fa-link"></i> Live Demo</a>
               </Col>
             </Row>
           </Col>
