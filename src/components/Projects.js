@@ -107,7 +107,7 @@ class Projects extends Component {
               This back-end service was built in Node.
               <br />
               <br />
-              <a href = "https://github.com/Brandoncyu/nbc-image-resizer-server" target="blank"><i className="fab fa-github-square p-2"></i>Github</a> | <a href = {require('../Image-Resizer.pdf')} target="blank"><i className="fas fa-file p-2"></i>Requirements</a>
+              <a href = "https://github.com/Brandoncyu/image-resizer-server" target="blank"><i className="fab fa-github-square p-2"></i>Github</a>
             </Col>
           </Row>
           <br />
