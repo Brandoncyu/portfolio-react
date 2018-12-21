@@ -97,6 +97,22 @@ class Projects extends Component {
           <br />
           <Row>
             <Col xl="2">
+              <img width="175" className="rounded-circle" src={require('../photos/highlight.png')} alt="profile" />
+            </Col>
+            <Col>
+              <h4>Highlight Priority</h4>
+              For one of my job applications, I was tasked in creating a web service that will highlight phrases in a document given a string and an array of highlight objects. If highlights overlap, it will show the higher-priority highlights over the lower-priority highlights.
+              <br />
+              <br />
+              This front-end app was built with React, React Color, Javascript, HTML, CSS and Node.
+              <br />
+              <br />
+              <a href = "https://github.com/Brandoncyu/highlight-priority" target="blank"><i className="fab fa-github-square p-2"></i>Github</a>
+            </Col>
+          </Row>
+          <br />
+          <Row>
+            <Col xl="2">
               <img width="175" className="rounded-circle" src={require('../photos/resize.png')} alt="profile" />
             </Col>
             <Col>
