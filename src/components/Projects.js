@@ -34,7 +34,7 @@ class Projects extends Component {
 
                 <br />
                 <br />
-                <a href = "https://github.com/Brandoncyu/tvod-frontend" target="blank"><i className="fab fa-github-square p-2"></i>Github</a> | <a href = "https://tvod.herokuapp.com" target="blank"><i className="fas fa-link"></i> Live Demo</a>
+                <a href = "https://github.com/Brandoncyu/tvod-frontend" target="blank"><i className="fab fa-github-square p-2"></i>Github</a> | <a href = "https://tvod.herokuapp.com" target="blank"><i className="fab fa-youtube"></i> Live Presentaton</a> | <a href = "https://tvod.herokuapp.com" target="blank"><i className="fas fa-link"></i> Live Demo</a> 
               </Col>
             </Row>
             <br />
