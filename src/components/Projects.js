@@ -113,6 +113,22 @@ class Projects extends Component {
           <br />
           <Row>
             <Col xl="2">
+              <img width="175" className="rounded-circle" src={require('../photos/connect4.png')} alt="profile" />
+            </Col>
+            <Col>
+              <h4>Conect Four</h4>
+              I was tasked with building a Connect Four game, both in React and Vanilla JavaScript.
+            <br />
+              <br />
+              The first app was built with React, Bootstrap, and JavaScript. The second was built with JavaScript, Bootstrap, jQuery, Browserify, Watchify, and Live-Server.
+            <br />
+              <br />
+                <a href="https://github.com/Brandoncyu/connect4-react" target="blank"><i className="fab fa-github-square p-2"></i>Github for React App</a> | <a href="https://github.com/Brandoncyu/connect4-vanilla" target="blank"><i className="fab fa-github-square p-2"></i>Github for Vanilla JavaScript app App</a> 
+            </Col>
+          </Row>
+          <br />
+          <Row>
+            <Col xl="2">
               <img width="175" className="rounded-circle" src={require('../photos/resize.png')} alt="profile" />
             </Col>
             <Col>
