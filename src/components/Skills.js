@@ -26,6 +26,10 @@ class Skills extends Component {
               <li>REST-ful APIs</li>
               <li>Git</li>
               <li>Heroku</li>
+              <li>Amazon Web Services</li>
+              <li>C++</li>
+              <li>C#</li>
+              <li>Visual Studios</li>
             </ul>
           </Col>
           <Col>
@@ -39,6 +43,11 @@ class Skills extends Component {
               <li>Flask.py</li>
               <li>AJAX</li>
               <li>GitHub</li>
+              <li>BitBucket</li>
+              <li>Cloudinary</li>
+              <li>Azure DevOps</li>
+              <li>WinDbg</li>
+              <li>Unit Testing	</li>    
             </ul>
           </Col>
           <Col>
