@@ -47,7 +47,7 @@ class Skills extends Component {
               <li>Cloudinary</li>
               <li>Azure DevOps</li>
               <li>WinDbg</li>
-              <li>Unit Testing	</li>    
+              <li>Unit Testing</li>    
             </ul>
           </Col>
           <Col>
