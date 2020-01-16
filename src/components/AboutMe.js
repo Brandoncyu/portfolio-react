@@ -16,8 +16,7 @@ class AboutMe extends Component {
         <Col xl="7">
           <h1>Welcome to Brandon Yu's Portfolio Site! </h1>
           <br />
-          <p>Hello! My name is Brandon Yu and I am a software developer based in Seattle, Washington. I recently completed Galvanize's Web Development Immersive program, and I look forward to applying my new skill set and exploring the possibilities that it will bring!</p>
-          <p>If you're interested in employing an enthusiastic developer passionate about his work, or even providing general suggestions, let's get in touch.</p>
+          <p>Hello! My name is Brandon Yu and I am a software developer based in San Francisco, California. My primary experience involves web development, back-end engineering, and unit testing. I am proven to be a strong leader, a caring coworker, and overall a total team player. Highly motivated to continue my career particularly in the field where my passions lie.</p>
           <a href = {require('../Resume.pdf')} target="blank"><i className="fas fa-file p-2"></i>My CV</a>
           <br />
           <a href = "mailto:brandoncyu@gmail.com" target="blank"><i className="fas fa-envelope p-2"></i>Email</a>
